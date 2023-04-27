@@ -20,7 +20,7 @@
     height: auto;
 }
 
-.about_me > img:hover {
+.about_me img:hover {
     outline: 2px dashed rgb(152,130,103); 
     outline-offset: -10px;
 }
