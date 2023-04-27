@@ -1,0 +1,24 @@
+.main_container {
+    margin: 0 auto;
+    width: 1440px;
+    position: relative;
+}
+
+.arrow_box {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.arrow {
+    color: rgb(26,24,34);
+    border: 1px solid gray;
+    border-radius: 15px;
+    background-color: rgb(197,197,197);
+    width: 65px;
+    height: 65px;
+    opacity: 0.2;
+    position: fixed;
+    bottom: 35px;
+  }
+
+  

@@ -1,0 +1,70 @@
+.project_card {
+    width: 600px;
+    height: 600px;
+    background-color: rgb(237, 227, 215);
+    border-radius: 8%;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    padding: 20px;
+    outline: 2px dashed rgb(152,130,103); 
+    outline-offset: -10px;
+    margin-bottom: 20px;
+}
+
+.project_card:hover {
+    box-shadow: 0px 0px 20px 5px rgb(152,130,103);
+}
+
+.project_title {
+    text-decoration: none;
+    color: rgb(26,24,34);
+    background-color: transparent;
+    font-size: 35px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    border-bottom: 2px solid rgb(26,24,34);
+}
+
+.project_title:hover {
+    font-size: 35px;
+    font-weight: 800;
+}
+
+.project_img {
+    width: 340px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 8%;
+    margin-bottom: 15px;
+}
+
+.project_text {
+    color: rgb(26,24,34);
+    background-color: transparent;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.project_text span {
+    color: rgb(26,24,34);
+    background-color: transparent;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.project_github {
+    text-decoration: none;
+    color: rgb(26,24,34);
+    background-color: transparent;
+    font-size: 20px;
+}
+
+.project_github:hover {
+    font-size: 20px;
+    font-weight: 800;
+    border-bottom: 2px solid rgb(26,24,34);
+}
+

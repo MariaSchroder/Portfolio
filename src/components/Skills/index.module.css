@@ -1,0 +1,17 @@
+.skills_container {
+    padding: 0 20px;
+}
+
+.skills_title {
+    color: rgb(214,191,154);
+    font-size: 35px;
+    margin-bottom: 40px;
+}
+
+.skills_img > img {
+    width: 90px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    margin-bottom: 100px;
+}
+

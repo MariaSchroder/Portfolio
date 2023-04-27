@@ -1,0 +1,88 @@
+.footer_container {
+    border-top: 3px solid black;
+    padding: 50px 20px 0 20px;
+}
+
+.icon_container {
+    position: relative;
+
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.contacts_title {
+    color: rgb(214,191,154);
+    font-size: 35px;
+}
+
+.mail  {
+    position: absolute;
+    top: 90px;
+    left: 50px;
+}
+
+.mail img {
+    width: 65px;
+    height: auto;
+    box-shadow: 15px 15px 5px -5px rgba(0,0,0,0.2);
+}
+
+.mail a {
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    color: rgb(197,197,197);
+    font-size: 25px;
+    position: absolute;
+    top: 12px;
+    left: 100px;
+}
+
+.mail a:hover {
+    color: rgb(214,191,154);
+    border-bottom: 1px solid rgb(214,191,154);
+    font-weight: 600;
+}
+
+.social_media_box {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    gap: 35px;
+    
+    position: absolute;
+    top: 85px;
+    right: 70px;
+}
+
+.social_media_icon a img {
+    width: 65px;
+    height: auto;
+}
+
+.social_media_icon a img {
+    box-shadow: 15px 15px 5px -5px rgba(0,0,0,0.2);
+}
+
+.icons_from_box {
+    margin-top: 200px;
+    margin-bottom: 30px;
+}
+
+.icons_from_title {
+    color: gray;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.icons_from a {
+    text-decoration: none;
+    color: gray;
+    margin: 0 5px;
+}
+
+.icons_from a:hover {
+    border-bottom: 1px solid gray;
+    font-weight: 600;
+
+}
