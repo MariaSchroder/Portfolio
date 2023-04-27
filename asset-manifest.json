@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.c60d1d76.css",
+    "main.js": "/Portfolio/static/js/main.985c4eb1.js",
+    "static/media/photo.png": "/Portfolio/static/media/photo.75f8fa7f13640ce17274.png",
+    "static/media/bakery.png": "/Portfolio/static/media/bakery.18dadf1f01664b5afb23.png",
+    "static/media/garden_store.png": "/Portfolio/static/media/garden_store.995eb7a04b9eea60b14a.png",
+    "static/media/portfolio.png": "/Portfolio/static/media/portfolio.45711324d1602628a48f.png",
+    "static/media/whatsapp.png": "/Portfolio/static/media/whatsapp.97b90b6e3f8c70254204.png",
+    "static/media/github.png": "/Portfolio/static/media/github.f3d873d71aa989badfd2.png",
+    "static/media/telegram.png": "/Portfolio/static/media/telegram.e8540dc14b381676ad9c.png",
+    "static/media/ms_logo.png": "/Portfolio/static/media/ms_logo.868e967b793c56dce18b.png",
+    "static/media/linkedin.png": "/Portfolio/static/media/linkedin.d21b834035baa551e886.png",
+    "static/media/gmail.png": "/Portfolio/static/media/gmail.a2f2146f929409405da0.png",
+    "static/media/Sass.svg": "/Portfolio/static/media/Sass.cca6f1cbf788e988080dffb7bd9ab84b.svg",
+    "static/media/MySQL-Light.svg": "/Portfolio/static/media/MySQL-Light.1baf3273bad5f3b9714f0927cf7d8b3a.svg",
+    "static/media/Github-Dark.svg": "/Portfolio/static/media/Github-Dark.ac545114b938c2cab646130d25acb0fd.svg",
+    "static/media/Git.svg": "/Portfolio/static/media/Git.87d6e2a3383a582dd8d951daf9c95c04.svg",
+    "static/media/Bootstrap.svg": "/Portfolio/static/media/Bootstrap.98b61c34f00ae809b39054115f1cc3bf.svg",
+    "static/media/Redux.svg": "/Portfolio/static/media/Redux.556d4fbb42566c6799158500fd245914.svg",
+    "static/media/React-Dark.svg": "/Portfolio/static/media/React-Dark.45e05858175d1edbb57051533007343c.svg",
+    "static/media/VSCode-Dark.svg": "/Portfolio/static/media/VSCode-Dark.832fcc7f88399f79848f458bf495a30d.svg",
+    "static/media/Figma-Dark.svg": "/Portfolio/static/media/Figma-Dark.43a966c7509c1108379ffad1a8e06266.svg",
+    "static/media/JavaScript.svg": "/Portfolio/static/media/JavaScript.9a071f2801f9f92598764d48c7225305.svg",
+    "static/media/MongoDB.svg": "/Portfolio/static/media/MongoDB.d4ec4d452a7f201ba12bd75b4657a816.svg",
+    "static/media/CSS.svg": "/Portfolio/static/media/CSS.5fcd7f5683afc0fc6d0186a083262016.svg",
+    "static/media/HTML.svg": "/Portfolio/static/media/HTML.ca0db580ffd74f086f2dc2a71dacd660.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.c60d1d76.css.map": "/Portfolio/static/css/main.c60d1d76.css.map",
+    "main.985c4eb1.js.map": "/Portfolio/static/js/main.985c4eb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c60d1d76.css",
+    "static/js/main.985c4eb1.js"
+  ]
+}
