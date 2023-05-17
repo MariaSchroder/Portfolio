@@ -22,7 +22,8 @@ export default function AboutMe() {
           {/* <p className={s.name_text}> Frontend developer</p> */}
           
           <p className={s.about_me_text}>And I want to help make the internet a more creative, accessible, and better place.</p>
-          <p className={s.about_me_text}>I like doing interesting and modern projects and also I enjoy clean and well-documented code.</p>
+          <p className={s.about_me_text}>I like doing interesting and modern projects whit clean code.</p>
+          <p className={s.about_me_text}>This is my little space on Internet where you can always find me and my work.</p>
         </div>
       </div>
     </section>

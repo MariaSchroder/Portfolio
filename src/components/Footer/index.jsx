@@ -35,7 +35,7 @@ export default function Footer() {
             </div>
 
             <div className={s.social_media_icon}>
-              <a href="https://www.linkedin.com/in/maria-schroeder-360919255/" target="_blank" rel="noreferrer noopener">
+              <a href="https://www.linkedin.com/in/ms-mariaschroeder" target="_blank" rel="noreferrer noopener">
                 <img src={linkedin} alt="linkedin"/>
               </a>
             </div>
